@@ -1,6 +1,3 @@
-# GIT REMOTE
-This is git remote section
-
 [Description] (https://github.com/app-sparkler/repo/blob/master/README.md#description) | 
 [Commands] (#commands)
 
@@ -11,4 +8,4 @@ A Repo which holds all files and folders that i may want to work with in more th
 
 # Commands
 * GIT
-  *  [git remote](#GIT REMOTE) 
+  *  [git remote](#git-remote) 
