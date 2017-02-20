@@ -1,10 +1,6 @@
 [Description] (https://github.com/app-sparkler/repo/blob/master/README.md#description) | 
 
-![](https://octodex.github.com/images/yaktocat.png =250x250)
-
-<img src="https://octodex.github.com/images/yaktocat.png" width="100" />
-
-![Image of Yaktocat](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =25x25)
+<img src="https://octodex.github.com/images/yaktocat.png" width="300" />
 
 # Description
 
