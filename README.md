@@ -9,8 +9,8 @@ Everything `code` repo.
 
 # BASH Terminal
 * [GIT](#git)
-  * <samp title="Syncs the local repo with the remote repo.&#13;A better method would be to work with `git fetch` which executes `git pull -p` and `git merge` in a single command.&#13;`-p`, i think, is for `prune` ">
-git pull </samp>
+  * <samp>
+git pull - Syncs the local repo with the remote repo.&#13;A better method would be to work with `git fetch` which executes `git pull -p` and `git merge` in a single command.&#13;`-p`, i think, is for `prune`</samp>
   
   <!-- GIT REMOTE -->
    * <samp>git remote - Everthing for the remote git repo</samp>
