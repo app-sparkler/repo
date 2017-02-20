@@ -11,6 +11,7 @@ Everything `code` repo.
 
 # BASH Terminal
 * [GIT](#git)
+* [cp](#cp)
 * [echo](#echo)
 * [more](#more)
 * [ssh-keygen](#more)
@@ -42,6 +43,15 @@ Everything `code` repo.
   
 ## Commit Deleted files from local repo to remote repo
   * <samp>`git commit -a -m "<message>"` - removes any deleted files from remote repo as well.</samp> 
+
+<hr />
+
+# `cp`
+*<samp>`cp SOURCE DEST`</samp>
+*<samp>`cp SOURCE DIRECTORY`</samp>
+*<samp>`cp SOURCE1 SOURCE2 SOURCE3 SOURCEn DIRECTORY`</samp>
+*<samp>`cp [OPTION] SOURCE DEST`</samp>
+*<samp>`cp [OPTION] SOURCE DIRECTORY`</samp>
 
 <hr /> 
 
