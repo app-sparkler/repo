@@ -34,6 +34,11 @@ Everything `code` repo.
 ## Get Missing Files
   * <samp>`git checkout <branchname> .` - checkout all files </samp>
   * <samp>`git checkout <branchname> <filename>` - checkout specific file (ensure this is executed from the respective directory)
+ 
+## Setting Up the SSH key for account/project
+  * Step 1 - `ssh-keygen -t rsa` - Generate a *ssh-key*
+  * Step 2 - `x-clip -sel clip < ~/.ssh/id_rsa.pub` - Copy the key to clipboard
+  * Step 3 - Add the key to account/repo for which the access is required
   
 ## Commit Deleted files from local repo to remote repo
   * <samp>`git commit -a -m "<message>"` - removes any deleted files from remote repo as well.</samp> 
