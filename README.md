@@ -5,27 +5,22 @@
 <img src="https://octodex.github.com/images/yaktocat.png" width="200" />
 
 # Description
-A Repo which holds all files and folders that i may want to work with in more than one project.  This repo hopes to save time for setting up projects, re-writing components, etc.  Basically it will try to save time wherever the prefix `re-` is involved.
+Everything `code` repo.
 
 # BASH Terminal
 * [GIT](#git)
-  * [FAQ](#faq)
-  * <samp title="Syncs the local repo with the remote repo. &#13; A better method would be to work with `git fetch` which executes `git pull -p` and `git merge` in a single command. &#13;  `-p`, i think, is for `prune` ">git pull</samp>
-  * [git remote](#git-remote) 
-  * git remote
+  * <samp title="Syncs the local repo with the remote repo.&#13;A better method would be to work with `git fetch` which executes `git pull -p` and `git merge` in a single command.&#13;`-p`, i think, is for `prune` ">
+git pull </samp>
+  
+  <!-- GIT REMOTE -->
+   * <samp title="Everthing for the remote git repo" >git remote</samp>
+    * <samp title="See the origin info for the repo" >git remote show origin</samp>
+    * <samp title="Set the url for origin on the git repo" >git remote set-url origin</samp>
   
 # HTML Entities
 * <samp>\&#13;</samp> - line-break in "title" string of an element
 
   
-<hr />
-# FAQ
-* [Sync Local Repo with Remote](#git-faq-1)
-
-## Sync Local Repo with Remote
-`git fetch -p`
-OR
-`git pull -p && git merge`
 
 
 
