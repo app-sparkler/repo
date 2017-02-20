@@ -9,7 +9,7 @@ A Repo which holds all files and folders that i may want to work with in more th
 # BASH Terminal
 * [GIT](#git)
   * [FAQ](#faq)
-  * [git pull](#git-pull)
+  * [git pull](# sync local repo with remote repo.  better shortcut is `git fetch` which combines `git pull` and `git merge`)
   * [git remote](#git-remote) 
 
 <hr />
