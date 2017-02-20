@@ -14,7 +14,9 @@ A Repo which holds all files and folders that i may want to work with in more th
 
 <hr />
 # FAQ
-How to update/sync local branch with remote branch
+* [Sync Local Repo with Remote](#git-faq-1)
+
+## Sync Local Repo with Remote
 `git fetch -p`
 OR
 `git pull -p && git merge`
