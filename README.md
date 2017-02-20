@@ -13,7 +13,7 @@ Everything `code` repo.
 * [GIT](#git)
 * [echo](#echo)
 * [more](#more)
-* [wget & raw-git](#wget-raw-git)
+* [wget & raw-git](#wget--raw-git)
 * [x-clip](#x-clip)
 
 <hr /> 
