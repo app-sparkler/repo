@@ -2,6 +2,8 @@
 
 ![](https://octodex.github.com/images/yaktocat.png =250x250)
 
+<img src="https://octodex.github.com/images/yaktocat.png">
+
 ![Image of Yaktocat](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =25x25)
 
 # Description
