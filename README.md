@@ -11,7 +11,7 @@ Everything `code` repo.
 * [GIT](#git)
 * [echo](#echo)
 * [more](#more)
-
+* [x-clip](#x-clip)
 <hr /> 
 # GIT
 
@@ -41,6 +41,9 @@ Everything `code` repo.
 
 # `more`
 * <samp>`more <filename>` - displays the contents of the file in the console (helps for copying)<samp>
+
+# `x-clip`
+* <samp>`x-clip -sel clip > <path/to/filename.ext>` - copies content of file to `clip`board.</samp>
 
 # HTML Entities
 * <samp>`&#13;` - line-break in "title" string of an element</samp> 
