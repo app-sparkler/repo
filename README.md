@@ -47,12 +47,14 @@ Everything `code` repo.
 <hr />
 
 ## `cp`
- * <samp>`cp SOURCE DEST`</samp>
- * <samp>`cp SOURCE DIRECTORY`</samp>
- * <samp>`cp SOURCE1 SOURCE2 SOURCE3 SOURCEn DIRECTORY`</samp>
- * <samp>`cp [OPTION] SOURCE DEST`</samp>
- * <samp>`cp [OPTION] SOURCE DIRECTORY`</samp>
-
+  * <samp>`cp SOURCE DEST`</samp>
+  * <samp>`cp SOURCE DIRECTORY`</samp>
+  * <samp>`cp SOURCE1 SOURCE2 SOURCE3 SOURCEn DIRECTORY`</samp>
+  * <samp>`cp [OPTION] SOURCE DEST`</samp>
+  * <samp>`cp [OPTION] SOURCE DIRECTORY`</samp>
+  * <samp>`cp -v SOURCE DEST` - *v*erbose output</samp>
+  * <samp>`cp -p SOURCE DEST` - *p*reserves attributes in copied file/s</samp>
+  * <samp>`cp * /my/backup` - copies all files</samp>
 <hr /> 
 
 # `echo`
