@@ -1,6 +1,6 @@
 [Description] (https://github.com/app-sparkler/repo/blob/master/README.md#description) | 
 
-<img src="https://octodex.github.com/images/yaktocat.png" width="300" />
+<img src="https://octodex.github.com/images/yaktocat.png" width="200" />
 
 # Description
 
