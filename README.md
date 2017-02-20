@@ -9,7 +9,7 @@ A Repo which holds all files and folders that i may want to work with in more th
 # BASH Terminal
 * [GIT](#git)
   * [FAQ](#faq)
-  * <samp title="Syncs the local repo with the remote repo. &#13; A better method would be to work with `git fetch` which executes `git pull -p` and `git merge` in a single command.  `-p`, i think, is for `prune` ">git pull</samp>
+  * <samp title="Syncs the local repo with the remote repo. &#13; A better method would be to work with `git fetch` which executes `git pull -p` and `git merge` in a single command. &#13;  `-p`, i think, is for `prune` ">git pull</samp>
   * [git remote](#git-remote) 
   * git remote
 <hr />
