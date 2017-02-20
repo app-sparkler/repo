@@ -2,7 +2,7 @@
 [Bash Terminal](#bash-terminal) |
 [HTML Entities](#html-entities) |
 [Vim](#vim) |
-[Hello4](#hello)
+[Hello5](#hello)
 
 <img src="https://octodex.github.com/images/yaktocat.png" width="200" />
 
