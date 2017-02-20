@@ -8,4 +8,16 @@ A Repo which holds all files and folders that i may want to work with in more th
 
 # BASH Terminal
 * [GIT](#git)
-  *  [git remote](#git-remote) 
+  * [FAQ](#faq)
+  * [git pull](#git-pull)
+  * [git remote](#git-remote) 
+
+<hr />
+# FAQ
+How to update/sync local branch with remote branch
+`git fetch -p`
+OR
+`git pull -p && git merge`
+
+
+
