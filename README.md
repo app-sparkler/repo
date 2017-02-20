@@ -14,6 +14,7 @@ Everything `code` repo.
 * [echo](#echo)
 * [more](#more)
 * [x-clip](#x-clip)
+* [wget & raw-git](#wget-raw-git)
 <hr /> 
 # GIT
 
@@ -38,6 +39,11 @@ Everything `code` repo.
 
 # `echo`
 * <samp>`echo "Hello World" >> my_doc.txt` - create a file and enter the text "Hello World" in it.</samp>
+
+<hr />
+
+# `wget` / `raw git`
+* <samp>`wget http://raw.github.com/:username/:reponame/:branchname/:path/:to/:filename.git` - get a single file from a repo</samp> 
 
 <hr />
 
