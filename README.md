@@ -1,3 +1,5 @@
+<kbd>SHIFT</kbd>
+
 [Description](#description)     | 
 [Bash Terminal](#bash-terminal) |
 [HTML Entities](#html-entities) |
