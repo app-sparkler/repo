@@ -15,7 +15,7 @@ A Repo which holds all files and folders that i may want to work with in more th
   * git remote
   
 # HTML Entities
-* <samp>&#13;</samp> - line-break in "title" string of an element
+* <strong>&#13;</strong> - line-break in "title" string of an element
 
   
 <hr />
