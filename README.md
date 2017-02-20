@@ -26,7 +26,7 @@ Everything `code` repo.
 
 <hr /> 
 # HTML Entities
-* <samp>\&#13; - line-break in "title" string of an element</samp> 
+* <samp>`\&#13;` - line-break in "title" string of an element</samp> 
   
 
 
