@@ -1,8 +1,8 @@
 [Description](#description)     | 
 [Bash Terminal](#bash-terminal) |
 [HTML Entities](#html-entities) |
-[Vim](#vim) |
-[Hello5](#hello)
+[Vim](#vim) 
+
 
 <img src="https://octodex.github.com/images/yaktocat.png" width="200" />
 
@@ -13,9 +13,11 @@ Everything `code` repo.
 * [GIT](#git)
 * [echo](#echo)
 * [more](#more)
-* [x-clip](#x-clip)
 * [wget & raw-git](#wget-raw-git)
+* [x-clip](#x-clip)
+
 <hr /> 
+
 # GIT
 
 ## Syncing 
@@ -42,16 +44,20 @@ Everything `code` repo.
 
 <hr />
 
+# `more`
+* <samp>`more <filename>` - displays the contents of the file in the console (helps for copying)<samp>
+
+<hr />
+
 # `wget` / `raw git`
 * <samp>`wget http://raw.github.com/:username/:reponame/:branchname/:path/:to/:filename.git` - get a single file from a repo</samp> 
 
 <hr />
 
-# `more`
-* <samp>`more <filename>` - displays the contents of the file in the console (helps for copying)<samp>
-
 # `x-clip`
 * <samp>`x-clip -sel clip > <path/to/filename.ext>` - copies content of file to `clip`board.</samp>
+
+</hr>
 
 # HTML Entities
 * <samp>`&#13;` - line-break in "title" string of an element</samp> 
