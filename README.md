@@ -8,4 +8,4 @@ A Repo which holds all files and folders that i may want to work with in more th
 
 # Commands
 * GIT
-  * git remote 
+  *  [git remote](#git-remote)` 
