@@ -1,4 +1,4 @@
-<kbd>SHIFT *</kbd>
+<kbd>SHIFT</kbd> + <kbd>*</kbd>
 
 [Description](#description)     | 
 [Bash Terminal](#bash-terminal) |
