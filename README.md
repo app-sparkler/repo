@@ -22,8 +22,8 @@ Everything `code` repo.
   
 ## Remote
   * <samp>`git remote` - Everthing for the remote git repo</samp>
-  * <samp>`git remote` show origin - See the origin info for the repo</samp>
-  * <samp>`git remote` set-url origin - Set the url for origin on the git repo</samp>
+  * <samp>`git remote show origin` - See the origin info for the repo</samp>
+  * <samp>`git remote set-url origin git+ssh://git@github/<username>/<reponame>.git` - Set the url for origin on the git repo</samp>
   
 ## Get Missing Files
   * <samp>`git checkout <branchname> .` - checkout all files </samp>
