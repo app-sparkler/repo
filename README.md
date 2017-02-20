@@ -1,6 +1,8 @@
 [Description](#description)     | 
 [Bash Terminal](#bash-terminal) |
 [HTML Entities](#html-entities) |
+[Vim](#vim) |
+[Test](#test)
 
 <img src="https://octodex.github.com/images/yaktocat.png" width="200" />
 
