@@ -13,6 +13,7 @@ Everything `code` repo.
 * [GIT](#git)
 * [echo](#echo)
 * [more](#more)
+* [ssh-keygen](#more)
 * [wget & raw-git](#wget--raw-git)
 * [x-clip](#x-clip)
 
@@ -48,6 +49,9 @@ Everything `code` repo.
 * <samp>`more <filename>` - displays the contents of the file in the console (helps for copying)<samp>
 
 <hr />
+
+# `ssh-keygen`
+* <samp>`ssh-keygen -t rsa` - Generates a key and creates `~/.ssh/id_rsa.pub` file.</samp>
 
 # `wget` / `raw git`
 * <samp>`wget http://raw.github.com/:username/:reponame/:branchname/:path/:to/:filename.git` - get a single file from a repo</samp> 
