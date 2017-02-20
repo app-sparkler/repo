@@ -46,12 +46,12 @@ Everything `code` repo.
 
 <hr />
 
-# `cp`
-*<samp>`cp SOURCE DEST`</samp>
-*<samp>`cp SOURCE DIRECTORY`</samp>
-*<samp>`cp SOURCE1 SOURCE2 SOURCE3 SOURCEn DIRECTORY`</samp>
-*<samp>`cp [OPTION] SOURCE DEST`</samp>
-*<samp>`cp [OPTION] SOURCE DIRECTORY`</samp>
+## `cp`
+ *<samp>`cp SOURCE DEST`</samp>
+ *<samp>`cp SOURCE DIRECTORY`</samp>
+ *<samp>`cp SOURCE1 SOURCE2 SOURCE3 SOURCEn DIRECTORY`</samp>
+ *<samp>`cp [OPTION] SOURCE DEST`</samp>
+ *<samp>`cp [OPTION] SOURCE DIRECTORY`</samp>
 
 <hr /> 
 
