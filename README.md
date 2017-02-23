@@ -21,6 +21,9 @@ Everything `code` repo.
 <hr /> 
 
 # GIT
+[Resolution](#git-resolution) |
+[Commands](#git-commands) |
+
 
 ## Syncing 
   * <samp>`git pull -p` - Syncs the local repo with the remote repo</samp>
