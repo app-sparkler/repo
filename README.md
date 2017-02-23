@@ -25,7 +25,7 @@ Everything `code` repo.
 [Commands](#git-commands) |
 
 
-## Syncing(id="git-syncing")  
+## Syncing  
    * <samp>`git pull -p` - Syncs the local repo with the remote repo</samp>
    * <samp>`git fetch -p` - Syncs the local repo with the remote repo<samp>
    * <samp>`git merge` - Merges the changes ( i think )
@@ -34,7 +34,8 @@ Everything `code` repo.
   * <samp>`git remote` - Everthing for the remote git repo</samp>
   * <samp>`git remote show origin` - See the origin info for the repo</samp>
   * <samp>`git remote set-url origin git+ssh://git@github/<username>/<reponame>.git` - Set the url for origin on the git repo</samp>
-  
+
+## Syncing
 ## Get Missing Files
   * <samp>`git checkout <branchname> .` - checkout all files </samp>
   * <samp>`git checkout <branchname> <filename>` - checkout specific file (ensure this is executed from the respective directory)
