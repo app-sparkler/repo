@@ -16,6 +16,8 @@ Everything `code` repo.
 * [GIT](#git)
 * [cp](#cp)
 * [echo](#echo)
+* [find](#find)
+* [man](#man)
 * [more](#more)
 * [ssh-keygen](#more)
 * [wget & raw-git](#wget--raw-git)
@@ -32,7 +34,6 @@ Everything `code` repo.
   * <samp>`git pull -p` - Syncs the local repo with the remote repo</samp>
   * <samp>`git fetch -p` - Syncs the local repo with the remote repo<samp>
   * <samp>`git merge` - Merges the changes ( i think )
-  
 
 ### Remote
   * <samp>`git remote` - Everthing for the remote git repo</samp>
@@ -49,7 +50,6 @@ Everything `code` repo.
   * Step 1 - `ssh-keygen -t rsa` - Generate a *ssh-key*
   * Step 2 - `x-clip -sel clip < ~/.ssh/id_rsa.pub` - Copy the key to clipboard
   * Step 3 - Add the key to account/repo for which the access is required
-
 ### Update repo with changes in .gitignore ###
 1. Step 1 - `git rm -r --cached .` - remove all files from the git repo. Careful.  --cached is v. important
 2. Step 2 - `git add .` - Add all files - this time as per the updated .gitignore
@@ -77,6 +77,18 @@ Everything `code` repo.
 
 <hr />
 
+# `find`
+
+* `find . -name "*.swp" -delete` - Find all files with extension`.swp` and `delete`
+
+<hr />
+
+# `man`
+* <samp>`man cp` - displays the **man**ual for `cp` in the bash terminal</samp>
+* <samp>`man man` - displays the **man**ual for `man` in the bash terminal</samp>
+
+<hr />
+
 # `more`
 * <samp>`more <filename>` - displays the contents of the file in the console (helps for copying)<samp>
 
@@ -100,6 +112,13 @@ Everything `code` repo.
   
 
 </hr>
+# Vim
+[Commands](#vim-commands) |
+[Key-Bindings](#vim-key-bindings) |
+
+## Vim Commands
+
+
 # Yarn
 * `yarn add <packageName>` - will add a package and add it to "dependencies" list in `package.json`
 * `yarn global <packageName>` - will add a package globally
