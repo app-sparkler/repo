@@ -25,7 +25,7 @@ Everything `code` repo.
 [Commands](#git-commands) |
 
 
- ## Syncing  
+## Syncing(id="git-syncing")  
    * <samp>`git pull -p` - Syncs the local repo with the remote repo</samp>
    * <samp>`git fetch -p` - Syncs the local repo with the remote repo<samp>
    * <samp>`git merge` - Merges the changes ( i think )
