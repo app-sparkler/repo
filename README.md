@@ -20,6 +20,7 @@ Everything `code` repo.
 * [man](#man)
 * [more](#more)
 * [ssh-keygen](#more)
+* [yarn](#yarn)
 * [wget & raw-git](#wget--raw-git)
 * [x-clip](#x-clip)
 
@@ -105,7 +106,13 @@ Everything `code` repo.
 # `x-clip`
 * <samp>`x-clip -sel clip > <path/to/filename.ext>` - copies content of file to `clip`board.</samp>
 
-</hr>
+<hr />
+
+# `yarn`
+* `yarn add <packageName>` - will add a package and add it to "dependencies" list in `package.json`
+* `yarn global <packageName>` - will add a package globally
+* `yarn install` - will install all listed packages in `package.json`
+<hr />
 
 # HTML Entities
 * <samp>`&#13;` - line-break in "title" string of an element</samp> 
@@ -119,8 +126,4 @@ Everything `code` repo.
 ## Vim Commands
 
 
-# Yarn
-* `yarn add <packageName>` - will add a package and add it to "dependencies" list in `package.json`
-* `yarn global <packageName>` - will add a package globally
-* `yarn install` - will install all listed packages in `package.json`
 
