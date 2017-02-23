@@ -51,6 +51,7 @@ Everything `code` repo.
   * Step 1 - `ssh-keygen -t rsa` - Generate a *ssh-key*
   * Step 2 - `x-clip -sel clip < ~/.ssh/id_rsa.pub` - Copy the key to clipboard
   * Step 3 - Add the key to account/repo for which the access is required
+
 ### Update repo with changes in .gitignore
 1. `git rm -r --cached .` - remove all files from the git repo. Careful.  --cached is v. important
 2. `git add .` - Add all files - this time as per the updated .gitignore
@@ -70,7 +71,11 @@ Everything `code` repo.
   * <samp>`cp [OPTION] SOURCE DIRECTORY`</samp>
   * <samp>`cp -v SOURCE DEST` - **v**erbose output</samp>
   * <samp>`cp -p SOURCE DEST` - **p**reserves attributes in copied file/s</samp>
-  * <samp>`cp * /my/backup` - copies all files</samp>
+  * <samp>`cp -R * backup/` - **R**ecursive copy of all files - i.e. when copying more than one file</samp>
+  * <samp>`mkdir dest/path && cp "$_"`
+
+**Reference** :  https://www.cyberciti.biz/faq/copy-command/
+
 <hr /> 
 
 # `echo`
