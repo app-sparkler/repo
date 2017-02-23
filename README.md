@@ -1,7 +1,10 @@
 [Description](#description)     | 
 [Bash Terminal](#bash-terminal) |
 [HTML Entities](#html-entities) |
-[Vim](#vim) 
+[Vim](#vim) |
+[Yarn](#yarn)
+
+
 
 
 <img src="https://octodex.github.com/images/yaktocat.png" width="200" />
@@ -21,10 +24,10 @@ Everything `code` repo.
 <hr /> 
 
 # GIT
-[Commands](#git-commands) |
+[Commands](#commands) |
 [Resolutions](#resolutions) |
 
-
+## Commands
 ### Syncing 
   * <samp>`git pull -p` - Syncs the local repo with the remote repo</samp>
   * <samp>`git fetch -p` - Syncs the local repo with the remote repo<samp>
@@ -96,5 +99,9 @@ Everything `code` repo.
 * <samp>`&#13;` - line-break in "title" string of an element</samp> 
   
 
-
+</hr>
+# Yarn
+* `yarn add <packageName>` - will add a package and add it to "dependencies" list in `package.json`
+* `yarn global <packageName>` - will add a package globally
+* `yarn install` - will install all listed packages in `package.json`
 
