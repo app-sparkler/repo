@@ -25,10 +25,10 @@ Everything `code` repo.
 [Commands](#git-commands) |
 
 
-## <h2 id="syncing-test">Syncing</h2> 
-  * <samp>`git pull -p` - Syncs the local repo with the remote repo</samp>
-  * <samp>`git fetch -p` - Syncs the local repo with the remote repo<samp>
-  * <samp>`git merge` - Merges the changes ( i think )
+ ## Syncing  
+   * <samp>`git pull -p` - Syncs the local repo with the remote repo</samp>
+   * <samp>`git fetch -p` - Syncs the local repo with the remote repo<samp>
+   * <samp>`git merge` - Merges the changes ( i think )
   
 ## Remote
   * <samp>`git remote` - Everthing for the remote git repo</samp>
