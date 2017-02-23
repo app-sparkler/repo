@@ -51,11 +51,11 @@ Everything `code` repo.
   * Step 1 - `ssh-keygen -t rsa` - Generate a *ssh-key*
   * Step 2 - `x-clip -sel clip < ~/.ssh/id_rsa.pub` - Copy the key to clipboard
   * Step 3 - Add the key to account/repo for which the access is required
-### Update repo with changes in .gitignore ###
-1. Step 1 - `git rm -r --cached .` - remove all files from the git repo. Careful.  --cached is v. important
-2. Step 2 - `git add .` - Add all files - this time as per the updated .gitignore
-3. Step 3 - `git commit -m "Gitignore now works"` - This commit will remove all untracked files from repo.
-4. Step 4 - `git push origin master` - if deploying to master branch...
+### Update repo with changes in .gitignore
+1. `git rm -r --cached .` - remove all files from the git repo. Careful.  --cached is v. important
+2. `git add .` - Add all files - this time as per the updated .gitignore
+3. `git commit -m "Gitignore now works"` - This commit will remove all untracked files from repo.
+4. `git push origin master` - if deploying to master branch...
 
 ### Commit Deleted files from local repo to remote repo
   * <samp>`git commit -a -m "<message>"` - removes any deleted files from remote repo as well.</samp> 
